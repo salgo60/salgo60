@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Wikidata
 - 🤔 I’m looking for help with wikidata
 - 💬 Ask me about [Wikidata](https://twitter.com/hashtag/Wikidata), [Knowledge Graph](https://twitter.com/hashtag/KnowledgeGraph), [Linked Data](https://twitter.com/hashtag/LinikedData)
-- 📫 How to reach me: twitter [@salgo60](https://twitter.com/salgo60)
-- ⚡ Fun fact: ...
+- 📫 How to reach me: twitter [@salgo60](https://twitter.com/salgo60) [Linkedin](https://www.linkedin.com/in/magnus-s%C3%A4lg%C3%B6-148890/)
+- ⚡ Fun fact: daytrader with the right to fail
 
